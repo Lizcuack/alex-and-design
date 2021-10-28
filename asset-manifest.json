@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4b32209.chunk.css",
+    "main.js": "/static/js/main.d1c56d88.chunk.js",
+    "main.js.map": "/static/js/main.d1c56d88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2e8e232.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2e8e232.js.map",
+    "static/js/2.bf71d692.chunk.js": "/static/js/2.bf71d692.chunk.js",
+    "static/js/2.bf71d692.chunk.js.map": "/static/js/2.bf71d692.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c4b32209.chunk.css.map": "/static/css/main.c4b32209.chunk.css.map",
+    "static/js/2.bf71d692.chunk.js.LICENSE.txt": "/static/js/2.bf71d692.chunk.js.LICENSE.txt",
+    "static/media/Blog__001.17f26a32.jpg": "/static/media/Blog__001.17f26a32.jpg",
+    "static/media/Blog__002.a6424443.jpg": "/static/media/Blog__002.a6424443.jpg",
+    "static/media/Herramientas.22840177.svg": "/static/media/Herramientas.22840177.svg",
+    "static/media/Logo.c4ee5726.svg": "/static/media/Logo.c4ee5726.svg",
+    "static/media/Navbar.884c254e.svg": "/static/media/Navbar.884c254e.svg",
+    "static/media/arbolabport.00eef458.png": "/static/media/arbolabport.00eef458.png",
+    "static/media/blob.fb0fdddb.png": "/static/media/blob.fb0fdddb.png",
+    "static/media/blog.f7e04a2c.svg": "/static/media/blog.f7e04a2c.svg",
+    "static/media/bluepill.8b9d1079.png": "/static/media/bluepill.8b9d1079.png",
+    "static/media/folder.cf8f62e8.svg": "/static/media/folder.cf8f62e8.svg",
+    "static/media/header__foto.8eaa132d.png": "/static/media/header__foto.8eaa132d.png",
+    "static/media/logopersonal.f1a833ba.svg": "/static/media/logopersonal.f1a833ba.svg",
+    "static/media/orangecube.cbff4502.png": "/static/media/orangecube.cbff4502.png",
+    "static/media/send.34a1e373.svg": "/static/media/send.34a1e373.svg",
+    "static/media/skills.4cc0d8d1.svg": "/static/media/skills.4cc0d8d1.svg",
+    "static/media/skillsprogress.c67a62e0.svg": "/static/media/skillsprogress.c67a62e0.svg",
+    "static/media/stport.8dc819ac.png": "/static/media/stport.8dc819ac.png",
+    "static/media/user.60af2633.svg": "/static/media/user.60af2633.svg",
+    "static/media/yellowdonut.e1cff1a0.png": "/static/media/yellowdonut.e1cff1a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e8e232.js",
+    "static/js/2.bf71d692.chunk.js",
+    "static/css/main.c4b32209.chunk.css",
+    "static/js/main.d1c56d88.chunk.js"
+  ]
+}
